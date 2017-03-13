@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1488980954 source:/home/turupawn/Clases/Analisis/19 - Count Change/Test.cpp
+	"Test.h"
+
+1488980861 /home/turupawn/Clases/Analisis/19 - Count Change/Test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1489069391 source:/home/turupawn/Clases/Analisis/19 - Count Change/main.cpp
+	"Test.h"
+	<iostream>
+
