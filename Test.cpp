@@ -39,7 +39,7 @@ void test()
 
     g1[3][4]=5;
 
-    static const int r1[] = {NULL,0,0,1,2};
+    static const int r1[] = {0,0,0,1,2};
 
     int** g2 = _initGraph(5);
     g2[0][1]=1;
@@ -51,7 +51,7 @@ void test()
 
     g2[3][4]=3;
 
-    static const int r2[] = {NULL,0,0,2,3};
+    static const int r2[] = {0,0,0,2,3};
 
 
     int* a1 = getShortestPath(g1, 5, 0);
